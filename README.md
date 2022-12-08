@@ -1,7 +1,7 @@
 
-# Bu bir DJANGO README şablonu 
+# Bu bir DJANGO Pizza App uygulamasidir.
 
-Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
+
 
 
 # Django Temel Kurulum Projesi
