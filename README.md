@@ -1,4 +1,64 @@
+# DJANGO PizzaApp
 
+> A Django-based Pizza ordering web application.
+
+## About
+
+DJANGO PizzaApp is a full-stack web application built with Django, featuring a pizza ordering system with an admin panel. This project was developed as part of learning Django web development fundamentals.
+
+## Features
+
+- Pizza menu browsing and ordering
+- Django admin panel with Jazzmin UI
+- User authentication
+- Order management
+- Responsive Bootstrap 4 design
+
+## Technologies Used
+
+| Technology | Version |
+|------------|---------|
+| Python | 3.10 |
+| Django | Latest |
+| Bootstrap | 4 |
+| Jazzmin | 2.5 |
+
+## Project Structure
+
+DJANGO-PizzaApp/
+├── src/                  # Django project source
+└── README.md             # This file
+
+## Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/fuatsevinc/DJANGO-PizzaApp.git
+
+2. Navigate into the project directory:
+   cd DJANGO-PizzaApp
+
+3. Create a virtual environment:
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+4. Install dependencies:
+   pip install -r requirements.txt
+
+5. Apply migrations:
+   python manage.py migrate
+
+6. Run the development server:
+   python manage.py runserver
+
+7. Visit http://127.0.0.1:8000 in your browser.
+
+## License
+
+BSD 3-Clause License
+
+---
+
+Developed by [fuatsevinc](https://github.com/fuatsevinc)
 # Bu bir DJANGO Pizza App uygulamasidir.
 
 
